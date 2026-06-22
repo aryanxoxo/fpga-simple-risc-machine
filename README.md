@@ -1,4 +1,6 @@
-# Simple RISC Machine using Verilog and the DE1-SoC
+﻿# Simple RISC Machine using Verilog and the DE1-SoC
+
+> Public archive note: this repository is a portfolio/demo-safe version prepared from private working repositories/materials; sensitive details, credentials, raw logs, and proprietary context are intentionally omitted.
 
 Source archive for a Verilog RISC-style processor project targeting the DE1-SoC FPGA workflow. The design includes a top-level hardware wrapper, CPU control logic, datapath, register file, ALU, and shifter modules.
 
